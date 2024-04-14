@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WSEA.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WSEA.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\images\\1497088016-1185-11b519679c77151eda7967727fj7.jpg",
+      "PackagePath": "staticwebassets\\images\\1497088016-1185-11b519679c77151eda7967727fj7.jpg"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\images\\1663221723_7-mykaleidoscope-ru-p-dachnii-domik-vigvam-krasivo-7.jpg",
+      "PackagePath": "staticwebassets\\images\\1663221723_7-mykaleidoscope-ru-p-dachnii-domik-vigvam-krasivo-7.jpg"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\images\\home1.jpg",
+      "PackagePath": "staticwebassets\\images\\home1.jpg"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\images\\home2.jpg",
+      "PackagePath": "staticwebassets\\images\\home2.jpg"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\images\\home3.jpg",
+      "PackagePath": "staticwebassets\\images\\home3.jpg"
+    },
+    {
+      "Id": "D:\\Колледж\\ПП.03\\WSEA1\\WSEA\\WSEA\\wwwroot\\images\\non_image.jpg",
+      "PackagePath": "staticwebassets\\images\\non_image.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WSEA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WSEA.props",
+      "PackagePath": "build\\WSEA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WSEA.props",
+      "PackagePath": "buildMultiTargeting\\WSEA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WSEA.props",
+      "PackagePath": "buildTransitive\\WSEA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
